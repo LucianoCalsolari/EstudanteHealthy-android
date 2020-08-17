@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EstudanteHealthy</string>
+    <string name="section_text_1">Agua</string>
+    <string name="section_text_2">Tarefas</string>
+    <string name="section_text_3">Timer</string>
+    <string name="porcentagem_text">0%</string>
+    <string name="button_feito">Feito</string>
+</resources>
